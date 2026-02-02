@@ -5,6 +5,12 @@ It showcases my skills, projects, and contact information in a clean and interac
 
 ---
 
+## 📸 Screenshot
+
+![Portfolio](https://github.com/Anshuman892494/Portfolio_2/blob/main/Screenshot%202026-02-02%20125606.png?raw=true)
+
+---
+
 ## 🚀 Features
 
 **Modern UI** — Built with Tailwind CSS for a sleek, responsive design  
