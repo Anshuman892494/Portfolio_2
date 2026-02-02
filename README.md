@@ -43,7 +43,7 @@ portfolio/
 
 ## 🧩 Live Demo
 
-🔗 **View Live**: [https://portfolio-two-neon-ptwivbx5is.vercel.app](https://anshuman-ten.vercel.app/)
+🔗 **View Live**: [Link](https://anshuman-ten.vercel.app/)
 
 ---
 
