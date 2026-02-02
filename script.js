@@ -194,8 +194,8 @@ document.addEventListener('DOMContentLoaded', function () {
             description: 'This responsive portfolio website built with modern design principles and animations.',
             tags: ['HTML5', 'CSS3', 'JavaScript', 'Tailwind'],
             category: 'web',
-            github: 'https://github.com/Anshuman892494/Portfolio_2.0',
-            demo: 'https://portfolio-two-neon-ptwivbx5is.vercel.app/',
+            github: 'https://github.com/Anshuman892494/Portfolio_2',
+            demo: 'https://anshuman-ten.vercel.app/',
             image: 'https://github.com/Anshuman892494/Portfolio_2.0/blob/main/Screenshot%202026-02-02%20125606.png?raw=true'
         },
         {
