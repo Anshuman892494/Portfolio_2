@@ -187,6 +187,17 @@ document.addEventListener('DOMContentLoaded', function () {
     const projectsGrid = document.getElementById('projects-grid');
 
     const projectsData = [
+
+        {
+            id: 8,
+            title: 'Portfolio',
+            description: 'This responsive portfolio website built with modern design principles and animations.',
+            tags: ['HTML5', 'CSS3', 'JavaScript', 'Tailwind'],
+            category: 'web',
+            github: 'https://github.com/Anshuman892494/Portfolio_2.0',
+            demo: 'https://portfolio-two-neon-ptwivbx5is.vercel.app/',
+            image: 'https://github.com/Anshuman892494/Portfolio_2.0/blob/main/Screenshot%202026-02-02%20125606.png?raw=true'
+        },
         {
             id: 7,
             title: 'TypeACCI',
@@ -245,7 +256,7 @@ document.addEventListener('DOMContentLoaded', function () {
             category: 'web',
             github: 'https://github.com/Anshuman892494/ai-hotel-booking-assistant',
             demo: null,
-            image: null
+            image: 'https://github.com/Anshuman892494/ai-hotel-booking-assistant/blob/main/Screenshot%202026-02-02%20125123.png?raw=true'
         },
         {
             id: 1,
@@ -253,9 +264,9 @@ document.addEventListener('DOMContentLoaded', function () {
             description: 'This responsive portfolio website built with modern design principles and animations.',
             tags: ['HTML5', 'CSS3', 'JavaScript', 'Tailwind'],
             category: 'web',
-            github: '#',
-            demo: '#',
-            image: null
+            github: 'https://github.com/Anshuman892494/Portfolio',
+            demo: 'https://portfolio-two-neon-ptwivbx5is.vercel.app/',
+            image: 'https://github.com/Anshuman892494/Portfolio/blob/main/Screenshot%202026-02-02%20123752.png?raw=true'
         }
     ];
 
