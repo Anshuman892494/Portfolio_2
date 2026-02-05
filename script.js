@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         ${project.demo ? `
                             <a href="${project.demo}" target="_blank" 
                                class="flex items-center text-red-300 hover:text-red-200 transition text-sm md:text-base">
-                                <i class="fas fa-external-link-alt mr-2"></i> Demo
+                                <i class="fas fa-external-link-alt mr-2"></i> Visit
                             </a>
                         ` : ''}
                     </div>
