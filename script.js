@@ -188,8 +188,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const projectsData = [
 
+
         {
-            id: 8,
+            id: 10,
+            title: 'ExamPoint',
+            description: 'A full-stack MERN-based online examination platform with a secure authentication, timed exams, and optimized backend logic.',
+            tags: ['React.js', 'Node.js', 'Express.js', 'Tailwind', 'MongoDB'],
+            category: 'fullstack',
+            github: 'https://github.com/Anshuman892494/ExamPoint',
+            demo: 'https://exampoint-frontend.onrender.com/',
+            image: 'https://github.com/Anshuman892494/ExamPoint/blob/main/Screenshots/student_login.png?raw=true'
+        },
+        {
+            id: 9,
             title: 'Portfolio',
             description: 'This responsive portfolio website built with modern design principles and animations.',
             tags: ['HTML5', 'CSS3', 'JavaScript', 'Tailwind'],
@@ -199,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'https://github.com/Anshuman892494/Portfolio_2.0/blob/main/Screenshot%202026-02-02%20125606.png?raw=true'
         },
         {
-            id: 7,
+            id: 8,
             title: 'TypeACCI',
             description: 'A React-based typing practice web-app for students to improve speed and accuracy with real-time clean practice modes.',
             tags: ['React.js', 'CSS', 'Typing', 'Vercel'],
@@ -209,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'https://github.com/Anshuman892494/TypeACCI/raw/main/Screenshots/Screenshot%202026-02-02%20100741.png?raw=true'
         },
         {
-            id: 6,
+            id: 7,
             title: 'ProID Studio',
             description: 'Android application developed using Kotlin and Jetpack Compose for login and signup functionality.',
             tags: ['Kotlin', 'Jetpack', 'Android'],
@@ -219,14 +230,24 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'https://github.com/Anshuman892494/ProID-Studio-Login-Android/blob/main/Poster.png?raw=true'
         },
         {
-            id: 5,
+            id: 6,
             title: 'Smart Traffic Management',
             description: 'Full-stack web application to monitor and visualize urban traffic in real time with interactive maps.',
-            tags: ['React.js', 'Node.js', 'CSS', 'Express.js'],
+            tags: ['React.js', 'Node.js', 'CSS', 'Express.js', 'MongoDB'],
             category: 'fullstack',
             github: 'https://github.com/Anshuman892494/Smart-Traffic-Management-System',
             demo: null,
             image: 'https://github.com/Anshuman892494/Smart-Traffic-Management-System/blob/main/Screenshots/Admin_Dash.png?raw=true'
+        },
+        {
+            id: 5,
+            title: 'Echoes Of Eternity',
+            description: 'A single-page spiritual blog platform focused on devotion, mindfulness, and divine love through Radha–Krishna and Bhagavad Gita teachings.',
+            tags: ['HTML5', 'CSS3', 'Tailwind', 'JavaScript', 'Vercel'],
+            category: 'web',
+            github: null,
+            demo: 'https://echoes-of-eternity-two.vercel.app/',
+            image: 'https://echoes-of-eternity-two.vercel.app/assets/Echoes_Of_Eternit.jpeg'
         },
         {
             id: 4,
